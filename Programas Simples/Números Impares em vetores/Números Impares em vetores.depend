@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1591146929 source:c:\users\than_\desktop\números impares em vetores\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
+1591147065 source:c:\users\than_\documents\sistemas de informaÇÃo - uam\1 - semestre\algoritmo e programaÇÃo\programas\números impares em vetores\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

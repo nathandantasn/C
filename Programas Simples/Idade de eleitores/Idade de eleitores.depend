@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1591072498 source:c:\users\than_\desktop\idade de eleitores\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

@@ -1,0 +1,26 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <locale.h>
+
+int main()
+{
+setlocale(LC_ALL, "Portuguese");
+
+float vendido;
+
+printf("\nQual o valor de Venda: R$ ");
+scanf("%f", &vendido);
+
+    if (vendido>2000)
+    {
+    printf("\nSua comissão é de: R$ %.2f", vendido*0.1);
+    printf("\nO seu salário bruto a receber é de: R$ %.2f\n", vendido*0.1+1200);
+    }
+    else
+    {
+    printf("\nVocê não alcançou a meta de vendas!");
+    printf("\nO seu salário bruto a receber é de: R$ 1200,00\n");
+    }
+
+    return 0;
+}

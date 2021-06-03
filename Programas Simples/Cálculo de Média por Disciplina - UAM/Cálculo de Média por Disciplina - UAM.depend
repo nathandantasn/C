@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1594597101 source:c:\users\than_\desktop\cálculo de média por disciplina - uam\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

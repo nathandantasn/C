@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1587846856 source:c:\users\than_\desktop\calculadora simples\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
+1587956713 source:c:\users\than_\desktop\programas\calculadora simples\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1587952299 source:c:\users\than_\desktop\taxa de natalidade e mortalidade\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

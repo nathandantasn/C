@@ -1,0 +1,32 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <locale.h>
+
+int main()
+{
+    setlocale(LC_ALL, "Portuguese");
+
+    float Salario1;
+    int Anos;
+
+    printf("\n Qual é o seu Salário atual: ");
+    scanf("%f", &Salario1);
+
+    printf("\n Quantos anos de empresa ABC: ");
+    scanf("%d", &Anos);
+
+     if (Anos>=5)
+        {
+        printf("\n Seu salário com o Bonus é: R$ %.2f", (Salario1 * 0.2 + Salario1));
+        printf("\n Seu Bonus foi de: R$ %.2f\n", Salario1* 0.2);
+        }
+
+    else
+        {
+        printf("\n Seu salário com o Bonus é: R$ %.2f", (Salario1 * 0.1 + Salario1));
+        printf("\n Seu Bonus foi de: R$ %.2f\n", Salario1* 0.1);
+        }
+
+    return 0;
+
+}

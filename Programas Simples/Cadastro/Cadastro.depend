@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1588604168 source:c:\users\than_\desktop\cadastro\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+
+1588604248 source:c:\users\than_\desktop\programas\cadastro\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+
+1588604248 source:c:\users\than_\documents\sistemas de informa«√o - uam\1 - semestre\algoritmo e programa«√o\programas\cadastro\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+

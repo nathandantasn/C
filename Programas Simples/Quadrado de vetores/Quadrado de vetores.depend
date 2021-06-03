@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1591123937 source:c:\users\than_\desktop\quadrado de vetores\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

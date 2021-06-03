@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1587951597 source:c:\users\than_\desktop\descontos %\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
+1587991984 source:c:\users\than_\desktop\programas\descontos %\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

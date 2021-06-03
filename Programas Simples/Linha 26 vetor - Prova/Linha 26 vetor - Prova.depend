@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1592230063 source:c:\users\than_\desktop\linha 26 vetor - prova\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1591620818 source:c:\users\than_\desktop\multiplicação\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
